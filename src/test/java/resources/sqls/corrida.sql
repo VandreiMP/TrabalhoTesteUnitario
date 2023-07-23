@@ -1,0 +1,2 @@
+INSERT INTO corrida(id_corrida, data_corrida, id_pista, id_campeonato) VALUES(5, '01/01/2001', 2, 8);
+INSERT INTO corrida(id_corrida, data_corrida, id_pista, id_campeonato) VALUES(6, '01/01/2002', 3, 9);
